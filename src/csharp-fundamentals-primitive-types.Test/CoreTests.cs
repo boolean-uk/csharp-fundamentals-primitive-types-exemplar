@@ -49,7 +49,7 @@ namespace csharp_fundamentals_primitive_types.Test
 
         [Test]
         public void nineShouldBe3p14159() {
-            Assert.AreEqual(3.14159d, this.coreExercise.piD);
+            Assert.AreEqual(3.14159, this.coreExercise.piD);
         }
 
         [Test]
